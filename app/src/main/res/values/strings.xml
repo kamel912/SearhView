@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearhView</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_label">Search</string>
+    <string name="hint">Search</string>
+    <string name="search">Search</string>
+</resources>
